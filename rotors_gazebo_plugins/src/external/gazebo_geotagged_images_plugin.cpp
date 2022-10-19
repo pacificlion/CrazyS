@@ -21,9 +21,10 @@
 #include <string>
 #include <iostream>
 
+#include <opencv2/highgui/highgui_c.h>
 #include <boost/filesystem.hpp>
-#include <cv.h>
-#include <highgui.h>
+#include <opencv2/core.hpp>
+#include <opencv2/highgui.hpp>
 #include <opencv2/opencv.hpp>
 
 #include "rotors_gazebo_plugins/common.h"
